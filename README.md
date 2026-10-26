@@ -6,15 +6,15 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 
 ## Project index
 
-- [AI Agents & Coding Environments](#ai-agents-coding-environments)
-- [Agent Infrastructure, Memory & Automation](#agent-infrastructure-memory-automation)
-- [Productivity, Work & Knowledge](#productivity-work-knowledge)
-- [Platforms, Marketplaces & Services](#platforms-marketplaces-services)
-- [Markets, Forecasting & Research](#markets-forecasting-research)
-- [Mobile Apps, Files & Sharing](#mobile-apps-files-sharing)
-- [Desktop, Media & Creative Tools](#desktop-media-creative-tools)
-- [Learning, Wellbeing & Outdoors](#learning-wellbeing-outdoors)
-- [Games, Simulations & Engineering Experiments](#games-simulations-engineering-experiments)
+- [AI Agents & Coding Environments](#ai-agents--coding-environments)
+- [Agent Infrastructure, Memory & Automation](#agent-infrastructure-memory--automation)
+- [Productivity, Work & Knowledge](#productivity-work--knowledge)
+- [Platforms, Marketplaces & Services](#platforms-marketplaces--services)
+- [Markets, Forecasting & Research](#markets-forecasting--research)
+- [Mobile Apps, Files & Sharing](#mobile-apps-files--sharing)
+- [Desktop, Media & Creative Tools](#desktop-media--creative-tools)
+- [Learning, Wellbeing & Outdoors](#learning-wellbeing--outdoors)
+- [Games, Simulations & Engineering Experiments](#games-simulations--engineering-experiments)
 
 ---
 
