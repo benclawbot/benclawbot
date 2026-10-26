@@ -2,7 +2,7 @@
 
 I build and explore **AI agents**, **developer tools**, **productivity software**, and **local-first apps**. This is a map of my public GitHub projects, including original builds, experiments, and forks.
 
-**81 public repositories · 9 categories**
+**81 public repositories · 9 project categories + forks**
 
 ## Project index
 
@@ -15,6 +15,7 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - [Desktop, Media & Creative Tools](#desktop-media--creative-tools)
 - [Learning, Wellbeing & Outdoors](#learning-wellbeing--outdoors)
 - [Games, Simulations & Engineering Experiments](#games-simulations--engineering-experiments)
+- [Forks & Upstream Projects](#forks--upstream-projects)
 
 ---
 
@@ -23,16 +24,10 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[Medusa](https://github.com/benclawbot/Medusa)** — Local-first Rust coding agent for planning, verified execution, and recoverable multi-agent work.
 - **[Zeus](https://github.com/benclawbot/Zeus)** — Cross-platform coding agent focused on reliable, contract-driven software development.
 - **[FastBot](https://github.com/benclawbot/FastBot)** — Security-focused personal AI gateway for Android/Termux and Node.js servers.
-- **[hermes-agent](https://github.com/benclawbot/hermes-agent)** — Self-improving agent runtime with tools, memory, and multi-platform access.
 - **[Hermes-Agent-Mobile-HAM](https://github.com/benclawbot/Hermes-Agent-Mobile-HAM)** — Unofficial Android client for connecting to a self-hosted Hermes Agent.
 - **[iAgent-windows](https://github.com/benclawbot/iAgent-windows)** — Ambient Windows AI assistant combining desktop context, voice, and local automation.
-- **[howcode](https://github.com/benclawbot/howcode)** — Desktop workspace for agent-driven coding with an opinionated, streamlined interface.
-- **[jcode](https://github.com/benclawbot/jcode)** — Customizable coding-agent harness designed for multi-session development workflows.
-- **[kilocode](https://github.com/benclawbot/kilocode)** — Open-source AI coding assistant for developer workflows and IDEs.
-- **[deepseek-harness](https://github.com/benclawbot/deepseek-harness)** — Plugin-based agent harness from DeepSeek for extensible coding workflows.
 - **[pi-mobile](https://github.com/benclawbot/pi-mobile)** — Mobile-first PWA for remotely accessing howcode and its agent workflows.
 - **[Pi-Agent-Optimus](https://github.com/benclawbot/Pi-Agent-Optimus)** — Personal agents, extensions, skills, and setup tooling for the Pi coding agent.
-- **[opencode-all-attachments](https://github.com/benclawbot/opencode-all-attachments)** — OpenCode-based coding-agent workspace exploring expanded attachment support.
 - **[Claude-Harness](https://github.com/benclawbot/Claude-Harness)** — Evaluation-gated, self-improving workflow harness for Claude Code.
 
 ## Agent Infrastructure, Memory & Automation
@@ -41,19 +36,14 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[agent-commit](https://github.com/benclawbot/agent-commit)** — Content-addressed version history for agent conversations, tool activity, and reasoning traces.
 - **[ChatGPT-goal-extension](https://github.com/benclawbot/ChatGPT-goal-extension)** — Edge extension that keeps ChatGPT focused on a persistent, verifiable goal.
 - **[Codex-semantic-router](https://github.com/benclawbot/Codex-semantic-router)** — Lightweight semantic pre-filter that reduces irrelevant context before Codex reads it.
-- **[context-mode](https://github.com/benclawbot/context-mode)** — Context-management tooling that reduces information overload in coding-agent sessions.
 - **[deterministic-agent](https://github.com/benclawbot/deterministic-agent)** — Schema checks, preflight guards, output linting, and replay tests for AI agents.
 - **[fable-5-universal-system-prompt](https://github.com/benclawbot/fable-5-universal-system-prompt)** — Portable operating prompt for coding, research, browser, and automation agents.
 - **[harness-extensions](https://github.com/benclawbot/harness-extensions)** — Composable sandbox, instruction-loading, and tool-hook utilities for agent harnesses.
-- **[hermes-lcm](https://github.com/benclawbot/hermes-lcm)** — Lossless context-management plugin for long-running Hermes Agent conversations.
 - **[hermes-skills](https://github.com/benclawbot/hermes-skills)** — Versioned backup of a personal Hermes Agent skills collection.
 - **[open-brain](https://github.com/benclawbot/open-brain)** — User-owned, persistent memory and decision continuity across coding agents.
 - **[Outcome-OS](https://github.com/benclawbot/Outcome-OS)** — Evidence-backed control plane for executing and verifying persistent goals.
-- **[planf3](https://github.com/benclawbot/planf3)** — Reusable planning meta-skill for creating and maintaining structured agent plans.
 - **[planf3-chatgpt-pkce](https://github.com/benclawbot/planf3-chatgpt-pkce)** — OAuth PKCE integration experiments for Planf3 image-generation workflows.
 - **[Recursive-Self-Improvement](https://github.com/benclawbot/Recursive-Self-Improvement)** — Human-reviewed agent improvement loop driven by proposals and independent evaluation.
-- **[RTK](https://github.com/benclawbot/RTK)** — Rust command-output proxy that reduces token usage in agent workflows.
-- **[skills](https://github.com/benclawbot/skills)** — Structured development skills for AI coding agents across frontend, mobile, and full-stack work.
 - **[HTML-specs](https://github.com/benclawbot/HTML-specs)** — Specification-first workflow that turns ideas into reviewable HTML plans for build agents.
 - **[Portfolio-OS](https://github.com/benclawbot/Portfolio-OS)** — Evidence-based governance, analytics, and automated backlog generation for GitHub portfolios.
 
@@ -108,7 +98,6 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[omarchy-software](https://github.com/benclawbot/omarchy-software)** — Native graphical package manager for Omarchy using Rust and Qt/QML.
 - **[VLC-Premiere](https://github.com/benclawbot/VLC-Premiere)** — Phone-first Android interface built around the VLC media engine.
 - **[youtube-playlist-player-widget](https://github.com/benclawbot/youtube-playlist-player-widget)** — Compact browser-based controller for playback in a signed-in YouTube tab.
-- **[zen-browser](https://github.com/benclawbot/zen-browser)** — Firefox-based browser focused on a more productive browsing experience.
 
 ## Learning, Wellbeing & Outdoors
 
@@ -123,8 +112,25 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[God-of-Small-Things](https://github.com/benclawbot/God-of-Small-Things)** — Interactive civilization sandbox where terrain, climate, and culture shape societies.
 - **[Helios-Accord](https://github.com/benclawbot/Helios-Accord)** — Solar-system grand-strategy game about developing an interplanetary civilization.
 - **[Minecraft-World](https://github.com/benclawbot/Minecraft-World)** — High-performance Windows voxel sandbox with procedural landscapes and building.
+
+## Forks & Upstream Projects
+
+Repositories based on other open-source projects, kept separate from the original projects above.
+
+- **[context-mode](https://github.com/benclawbot/context-mode)** — Context-management tooling that reduces information overload in coding-agent sessions.
+- **[deepseek-harness](https://github.com/benclawbot/deepseek-harness)** — Plugin-based agent harness from DeepSeek for extensible coding workflows.
+- **[hermes-agent](https://github.com/benclawbot/hermes-agent)** — Self-improving agent runtime with tools, memory, and multi-platform access.
+- **[hermes-lcm](https://github.com/benclawbot/hermes-lcm)** — Lossless context-management plugin for long-running Hermes Agent conversations.
+- **[howcode](https://github.com/benclawbot/howcode)** — Desktop workspace for agent-driven coding with an opinionated, streamlined interface.
+- **[jcode](https://github.com/benclawbot/jcode)** — Customizable coding-agent harness designed for multi-session development workflows.
+- **[kilocode](https://github.com/benclawbot/kilocode)** — Open-source AI coding assistant for developer workflows and IDEs.
+- **[opencode-all-attachments](https://github.com/benclawbot/opencode-all-attachments)** — OpenCode-based coding-agent workspace exploring expanded attachment support.
 - **[paperclips](https://github.com/benclawbot/paperclips)** — Visual redesign of the Universal Paperclips incremental game.
+- **[planf3](https://github.com/benclawbot/planf3)** — Reusable planning meta-skill for creating and maintaining structured agent plans.
+- **[RTK](https://github.com/benclawbot/RTK)** — Rust command-output proxy that reduces token usage in agent workflows.
+- **[skills](https://github.com/benclawbot/skills)** — Structured development skills for AI coding agents across frontend, mobile, and full-stack work.
 - **[twelve-dollar-server-challenge](https://github.com/benclawbot/twelve-dollar-server-challenge)** — Reproducible API benchmarking challenge for low-cost servers and SQLite.
+- **[zen-browser](https://github.com/benclawbot/zen-browser)** — Firefox-based browser focused on a more productive browsing experience.
 
 ---
 
