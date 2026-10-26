@@ -1,4 +1,4 @@
-# Hey, I'm Benclawbot 👋
+# welcome to my GitHub page 
 
 I build and explore **AI agents**, **developer tools**, **productivity software**, and **local-first apps**. This is a map of my public GitHub projects, including original builds, experiments, and forks.
 
