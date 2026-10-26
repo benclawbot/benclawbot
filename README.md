@@ -2,7 +2,7 @@
 
 I build and explore **AI agents**, **developer tools**, **productivity software**, and **local-first apps**. This is a map of my public GitHub projects, including original builds, experiments, and forks.
 
-**82 public repositories · 9 project categories + forks**
+**82 public repositories · 1 hosted game · 9 project categories + forks**
 
 ## Project index
 
@@ -110,6 +110,7 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 
 ## Games, Simulations & Engineering Experiments
 
+- **[Lawn Defense — Play Online](https://lawn-defense-thomas.benclawbot.chatgpt.site/)** — A Plants vs. Zombies-inspired lawn-defense game, hosted on ChatGPT Sites (no GitHub repository).  
 - **[God-of-Small-Things](https://github.com/benclawbot/God-of-Small-Things)** — Interactive civilization sandbox where terrain, climate, and culture shape societies.
 - **[Helios-Accord](https://github.com/benclawbot/Helios-Accord)** — Solar-system grand-strategy game about developing an interplanetary civilization.
 - **[Minecraft-World](https://github.com/benclawbot/Minecraft-World)** — High-performance Windows voxel sandbox with procedural landscapes and building.
