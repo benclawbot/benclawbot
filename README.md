@@ -2,7 +2,7 @@
 
 I build and explore **AI agents**, **developer tools**, **productivity software**, and **local-first apps**. This is a map of my public GitHub projects, including original builds, experiments, and forks.
 
-**84 public repositories · 9 project categories + forks**
+**85 public repositories · 9 project categories + forks**
 
 ## Project index
 
