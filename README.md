@@ -2,7 +2,7 @@
 
 I build and explore **AI agents**, **developer tools**, **productivity software**, and **local-first apps**. This is a map of my public GitHub projects, including original builds, experiments, and forks.
 
-**83 public repositories · 9 project categories + forks**
+**84 public repositories · 9 project categories + forks**
 
 ## Project index
 
@@ -96,6 +96,7 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[github-widget-desktop](https://github.com/benclawbot/github-widget-desktop)** — Windows desktop widget for GitHub activity, repositories, and trends.
 - **[groovezip](https://github.com/benclawbot/groovezip)** — Local tool for saving supported YouTube videos or playlist media as MP3, MP4, or ZIP.
 - **[omarchy-software](https://github.com/benclawbot/omarchy-software)** — Native graphical package manager for Omarchy using Rust and Qt/QML.
+- **[Preview](https://github.com/benclawbot/Preview)** — Local EPUB reader, PDF workspace, and picture editor for Linux, macOS, and Windows.
 - **[Rust-VLC](https://github.com/benclawbot/Rust-VLC)** — Cross-platform movie and music player built with Rust, Slint, and libVLC.
 - **[VLC-Premiere](https://github.com/benclawbot/VLC-Premiere)** — Phone-first Android interface built around the VLC media engine.
 - **[youtube-playlist-player-widget](https://github.com/benclawbot/youtube-playlist-player-widget)** — Compact browser-based controller for playback in a signed-in YouTube tab.
