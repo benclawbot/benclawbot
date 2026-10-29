@@ -2,7 +2,7 @@
 
 I build and explore **AI agents**, **developer tools**, **productivity software**, and **local-first apps**. This is a map of my public GitHub projects, including original builds, experiments, and forks.
 
-**85 public repositories · 9 project categories + forks**
+**87 public repositories · 9 project categories + forks**
 
 ## Project index
 
@@ -49,6 +49,7 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 
 ## Productivity, Work & Knowledge
 
+- **[ADHD-planner](https://github.com/benclawbot/ADHD-planner)** — Local-first planning PWA with visual schedules, focus tools, and on-device voice capture.
 - **[BrainstormFlow](https://github.com/benclawbot/BrainstormFlow)** — AI-powered idea exploration workspace with persistent creative sessions.
 - **[brainstorm-trooper](https://github.com/benclawbot/brainstorm-trooper)** — Research and brainstorming workspace with mind maps, evidence, and linked notes.
 - **[CV-Maestro](https://github.com/benclawbot/CV-Maestro)** — AI-assisted résumé builder with editable templates and PDF/DOCX export.
