@@ -112,6 +112,8 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 
 ## Games, Simulations & Engineering Experiments
 
+- **[Tie Breaker](https://github.com/benclawbot/Tiebreaker)** — Browser tennis game with keyboard and touch controls ([play online](https://tie-breaker.benclawbot.chatgpt.site/)).
+
 - **[Lawn Defense](https://github.com/benclawbot/Plant-vs-zombies)** — Plants vs. Zombies-inspired browser game ([play online](https://lawn-defense-thomas.benclawbot.chatgpt.site/)), hosted on ChatGPT Sites.
 - **[God-of-Small-Things](https://github.com/benclawbot/God-of-Small-Things)** — Interactive civilization sandbox where terrain, climate, and culture shape societies.
 - **[Helios-Accord](https://github.com/benclawbot/Helios-Accord)** — Solar-system grand-strategy game about developing an interplanetary civilization.
