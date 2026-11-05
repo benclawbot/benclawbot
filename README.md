@@ -104,6 +104,7 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 
 ## Learning, Wellbeing & Outdoors
 
+- **[Human OS](https://github.com/benclawbot/Human-OS)** — Private, local-first personal growth PWA for daily reflection, focused experiments, and weekly reviews (no AI or account required).
 - **[Balance-AI](https://github.com/benclawbot/Balance-AI)** — Life-balance tracker with visual assessments and AI-supported action suggestions.
 - **[TrailBlazer](https://github.com/benclawbot/TrailBlazer)** — Trail-discovery and GPS hiking app with offline saving and route tracking.
 - **[weekender](https://github.com/benclawbot/weekender)** — Swiss family-weekend activity finder that learns from preferences.
