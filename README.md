@@ -2,7 +2,7 @@
 
 I build and explore **AI agents**, **developer tools**, **productivity software**, and **local-first apps**. This is a map of my public GitHub projects, including original builds, experiments, and forks.
 
-**87 public repositories · 9 project categories + forks**
+**Public repositories · 9 project categories + forks**
 
 ## Project index
 
@@ -48,6 +48,8 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[Portfolio-OS](https://github.com/benclawbot/Portfolio-OS)** — Evidence-based governance, analytics, and automated backlog generation for GitHub portfolios.
 
 ## Productivity, Work & Knowledge
+
+- **[Gather](https://github.com/benclawbot/Gather)** — Mobile-friendly event polls with shareable links, multiple-choice options, seat reservations, and organizer tools ([open the live site](https://gather-event-polls.benclawbot.chatgpt.site/)).
 
 - **[ADHD-planner](https://github.com/benclawbot/ADHD-planner)** — Local-first planning PWA with visual schedules, focus tools, and on-device voice capture.
 - **[BrainstormFlow](https://github.com/benclawbot/BrainstormFlow)** — AI-powered idea exploration workspace with persistent creative sessions.
