@@ -96,6 +96,7 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 
 - **[Bloom_Omarchy](https://github.com/benclawbot/Bloom_Omarchy)** — Immersive Omarchy desktop environments with saved workspaces and visible AI sessions.
 - **[DarkRoom](https://github.com/benclawbot/DarkRoom)** — Local-first, nondestructive photo editor for desktop and mobile browsers.
+- **[3D-Art-Gallery](https://github.com/benclawbot/3D-Art-Gallery)** — First-person Three.js photo exhibitions with branching rooms, custom shaders, and shareable links ([visit the live gallery](https://stillroom-photo-gallery.benclawbot.chatgpt.site/g/demo)).
 - **[github-widget-desktop](https://github.com/benclawbot/github-widget-desktop)** — Windows desktop widget for GitHub activity, repositories, and trends.
 - **[groovezip](https://github.com/benclawbot/groovezip)** — Local tool for saving supported YouTube videos or playlist media as MP3, MP4, or ZIP.
 - **[omarchy-software](https://github.com/benclawbot/omarchy-software)** — Native graphical package manager for Omarchy using Rust and Qt/QML.
