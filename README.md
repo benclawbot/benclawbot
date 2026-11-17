@@ -104,6 +104,9 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[VLC-Premiere](https://github.com/benclawbot/VLC-Premiere)** — Phone-first Android interface built around the VLC media engine.
 - **[youtube-playlist-player-widget](https://github.com/benclawbot/youtube-playlist-player-widget)** — Compact browser-based controller for playback in a signed-in YouTube tab.
 
+- **[photo-review](https://github.com/benclawbot/photo-review)** — Local Windows gallery for reviewing photos by capture date and selecting files for the Recycle Bin.
+- **[photobook-skill](https://github.com/benclawbot/photobook-skill)** — Codex skill and Python toolkit for curating photo collections into themed photobook PDFs.
+
 ## Learning, Wellbeing & Outdoors
 
 - **[Human OS](https://github.com/benclawbot/Human-OS)** — Private, local-first personal growth PWA for daily reflection, focused experiments, and weekly reviews (no AI or account required).
