@@ -120,7 +120,6 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[God-of-Small-Things](https://github.com/benclawbot/God-of-Small-Things)** — Interactive civilization sandbox where terrain, climate, and culture shape societies.
 - **[Helios-Accord](https://github.com/benclawbot/Helios-Accord)** — Solar-system grand-strategy game about developing an interplanetary civilization.
 - **[Minecraft-World](https://github.com/benclawbot/Minecraft-World)** — High-performance Windows voxel sandbox with procedural landscapes and building.
-- **[Tie Breaker](https://github.com/benclawbot/Tiebreaker)** — Mobile-first, single-player tennis prototype with three.js and four court surfaces.
 
 ## Forks & Upstream Projects
 
