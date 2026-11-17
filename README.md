@@ -46,11 +46,11 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 - **[Recursive-Self-Improvement](https://github.com/benclawbot/Recursive-Self-Improvement)** — Human-reviewed agent improvement loop driven by proposals and independent evaluation.
 - **[HTML-specs](https://github.com/benclawbot/HTML-specs)** — Specification-first workflow that turns ideas into reviewable HTML plans for build agents.
 - **[Portfolio-OS](https://github.com/benclawbot/Portfolio-OS)** — Evidence-based governance, analytics, and automated backlog generation for GitHub portfolios.
+- **[12-prompts](https://github.com/benclawbot/12-prompts)** — Twelve evidence-aware thinking frameworks with a router for ChatGPT, Claude, Claude Code, and OpenCode.
 
 ## Productivity, Work & Knowledge
 
 - **[Gather](https://github.com/benclawbot/Gather)** — Mobile-friendly event polls with shareable links, multiple-choice options, seat reservations, and organizer tools ([open the live site](https://gather-event-polls.benclawbot.chatgpt.site/)).
-
 - **[ADHD-planner](https://github.com/benclawbot/ADHD-planner)** — Local-first planning PWA with visual schedules, focus tools, and on-device voice capture.
 - **[BrainstormFlow](https://github.com/benclawbot/BrainstormFlow)** — AI-powered idea exploration workspace with persistent creative sessions.
 - **[brainstorm-trooper](https://github.com/benclawbot/brainstorm-trooper)** — Research and brainstorming workspace with mind maps, evidence, and linked notes.
@@ -77,7 +77,7 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 
 - **[Claude-trading-bot](https://github.com/benclawbot/Claude-trading-bot)** — Multi-strategy BTC/USDT trading bot with backtesting and a monitoring dashboard.
 - **[liquidity-pulse](https://github.com/benclawbot/liquidity-pulse)** — Market-intelligence dashboard for liquidity flows across crypto, equities, and macro.
-- **[rangeboss](https://github.com/benclawbot/rangeboss)** — Hyperliquid price-level monitor with charting and Telegram alerts, without trade execution.
+- **[rangeboss](https://github.com/benclawbot/rangebot)** — Hyperliquid price-level monitor with charting and Telegram alerts, without trade execution.
 - **[future-scope-v5](https://github.com/benclawbot/future-scope-v5)** — Evidence-grounded forecasting workspace with calibrated probability scenarios.
 - **[reach-atlas](https://github.com/benclawbot/reach-atlas)** — Offline US travel-reachability maps comparing road, rail, and air travel.
 - **[inverse-design-tool](https://github.com/benclawbot/inverse-design-tool)** — Simulation tool that searches for minimal rules producing desired emergent behavior.
@@ -116,11 +116,11 @@ I build and explore **AI agents**, **developer tools**, **productivity software*
 ## Games, Simulations & Engineering Experiments
 
 - **[Tie Breaker](https://github.com/benclawbot/Tiebreaker)** — Browser tennis game with keyboard and touch controls ([play online](https://tie-breaker.benclawbot.chatgpt.site/)).
-
 - **[Lawn Defense](https://github.com/benclawbot/Plant-vs-zombies)** — Plants vs. Zombies-inspired browser game ([play online](https://lawn-defense-thomas.benclawbot.chatgpt.site/)), hosted on ChatGPT Sites.
 - **[God-of-Small-Things](https://github.com/benclawbot/God-of-Small-Things)** — Interactive civilization sandbox where terrain, climate, and culture shape societies.
 - **[Helios-Accord](https://github.com/benclawbot/Helios-Accord)** — Solar-system grand-strategy game about developing an interplanetary civilization.
 - **[Minecraft-World](https://github.com/benclawbot/Minecraft-World)** — High-performance Windows voxel sandbox with procedural landscapes and building.
+- **[Tie Breaker](https://github.com/benclawbot/Tiebreaker)** — Mobile-first, single-player tennis prototype with three.js and four court surfaces.
 
 ## Forks & Upstream Projects
 
